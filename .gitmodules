@@ -1,0 +1,30 @@
+[submodule "Labs/project-1-hutizaki"]
+	path = Labs/project-1-hutizaki
+	url = git@github.com:CS2334/project-1-hutizaki.git
+[submodule "Projects/project-1-hutizaki"]
+	path = Projects/project-1-hutizaki
+	url = git@github.com:CS2334/project-1-hutizaki.git
+[submodule "Projects/project-2-hutizaki"]
+	path = Projects/project-2-hutizaki
+	url = git@github.com:CS2334/project-2-hutizaki.git
+[submodule "Projects/project-3-hutizaki"]
+	path = Projects/project-3-hutizaki
+	url = git@github.com:CS2334/project-3-hutizaki.git
+[submodule "Labs/lab-2-hutizaki"]
+	path = Labs/lab-2-hutizaki
+	url = git@github.com:CS2334/lab-2-hutizaki.git
+[submodule "Labs/lab-3-hutizaki"]
+	path = Labs/lab-3-hutizaki
+	url = git@github.com:CS2334/lab-3-hutizaki.git
+[submodule "Labs/lab-4-hutizaki"]
+	path = Labs/lab-4-hutizaki
+	url = git@github.com:CS2334/lab-4-hutizaki.git
+[submodule "Labs/lab-5-hutizaki"]
+	path = Labs/lab-5-hutizaki
+	url = git@github.com:CS2334/lab-5-hutizaki.git
+[submodule "Labs/lab-6-hutizaki"]
+	path = Labs/lab-6-hutizaki
+	url = git@github.com:CS2334/lab-6-hutizaki.git
+[submodule "Labs/lab-7-hutizaki"]
+	path = Labs/lab-7-hutizaki
+	url = git@github.com:CS2334/lab-7-hutizaki.git
