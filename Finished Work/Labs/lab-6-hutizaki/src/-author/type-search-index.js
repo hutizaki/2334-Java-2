@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"IntegerList"},{"p":"<Unnamed>","l":"RangeList"},{"p":"<Unnamed>","l":"SortedList"},{"p":"<Unnamed>","l":"UniqueList"}];updateSearchResults();
